@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Cora Cafe - Hòa Mã</string>
+		<key>price</key>
+		<string>20.000đ - 60.000đ</string>
+		<key>address</key>
+		<string>24 Hòa Mã , Quận Hai Bà Trưng, Hà Nội</string>
+		<key>time</key>
+		<string>07:00 AM - 11:00 PM</string>
+		<key>photo</key>
+		<string>coracafe</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cowboy Jack’s – American Dining</string>
+		<key>price</key>
+		<string>300.000đ</string>
+		<key>address</key>
+		<string>Tầng 5, TTTM Vincom 54 Nguyễn Chí Thanh, Hà Nội</string>
+		<key>time</key>
+		<string>11:00 AM - 10:00 PM</string>
+		<key>photo</key>
+		<string>cowboyjack</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Đệ Nhất Nướng</string>
+		<key>price</key>
+		<string>149.000đ</string>
+		<key>address</key>
+		<string>104 Yết Kiêu, Nguyễn Du, Hai Bà Trưng, Hà Nội </string>
+		<key>time</key>
+		<string>11:00 AM - 11:00 PM</string>
+		<key>photo</key>
+		<string>denhatnuong</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gà Mái - Món Thái</string>
+		<key>price</key>
+		<string>30.000đ - 80.000đ</string>
+		<key>address</key>
+		<string>45B Đào Duy Từ, Quận Hoàn Kiếm, Hà Nội</string>
+		<key>time</key>
+		<string>09:00 AM - 10:00 PM</string>
+		<key>photo</key>
+		<string>gamai</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>iBanhMi - Sandwich Shop</string>
+		<key>price</key>
+		<string>40.000đ - 100.000đ</string>
+		<key>address</key>
+		<string>1 Điện Biên Phủ, Quận Ba Đình, Hà Nội</string>
+		<key>time</key>
+		<string>07:00 AM - 11:00 PM</string>
+		<key>photo</key>
+		<string>ibanhmi</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Snow Island Coffee</string>
+		<key>price</key>
+		<string>30.000đ - 50.000đ</string>
+		<key>address</key>
+		<string>222 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội</string>
+		<key>time</key>
+		<string>07:00 AM - 11:00 PM</string>
+		<key>photo</key>
+		<string>snowisland</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Seed Bakery Cafe - Hàng Bông</string>
+		<key>price</key>
+		<string>25.000đ - 70.000đ</string>
+		<key>address</key>
+		<string>48 Hàng Bông, Quận Hoàn Kiếm, Hà Nội</string>
+		<key>time</key>
+		<string>08:00 AM - 10:00 PM</string>
+		<key>photo</key>
+		<string>theseed</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Xofa Cafe - Tống Duy Tân</string>
+		<key>price</key>
+		<string>30.000đ - 50.000đ</string>
+		<key>address</key>
+		<string>14 Tống Duy Tân, Quận Hoàn Kiếm, Hà Nội</string>
+		<key>time</key>
+		<string>12:00 AM - 12:00 AM</string>
+		<key>photo</key>
+		<string>xofacafe</string>
+	</dict>
+</array>
+</plist>
